@@ -1,7 +1,11 @@
 # 👋 Bonjour, je suis Pascale !
-## 🎓 *Certifiée Microsoft : Power BI Data Analyst Associate (PL-300)*
-👩‍💻 *Data Analyst* passionnée par la Business Intelligence & la Data Science
+## 🎖️ **Certifiée Microsoft : Power BI Data Analyst Associate (PL-300)**
+🎓 **Diplômée d'un Master MIAGE**  : Parcours Systèmes d'Information Décisionnels
+
+👩‍💻 *Data Analyst* passionnée par la Business Intelligence & l'analyse de données
+
 📊 *Spécialité* : Transformation de données complexes en dashboards décisionnels
+
 🎯 *Objectif* : Accompagner les cabinets de conseil dans leur pilotage stratégique
 ***
 ## 🧠 Compétences
