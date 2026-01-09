@@ -1,8 +1,28 @@
 # 👋 Bonjour, je suis Pascale !
-### 📊 Data Analyst certifiée Microsoft (PL-300)
+## 🎓 *Certifiée Microsoft : Power BI Data Analyst Associate (PL-300)*
+👩‍💻 *Data Analyst* passionnée par la Business Intelligence & la Data Science
+📊 *Spécialité* : Transformation de données complexes en dashboards décisionnels
+🎯 *Objectif* : Accompagner les cabinets de conseil dans leur pilotage stratégique
+***
+## 🧠 Compétences
 
-J'accompagne les entreprises dans la valorisation de leurs données pour une prise de décision stratégique.
+|Langages & Data|Outils & Tech|
+|:--- |:--- |
+| SQL |Oracle Database |
+| DAX|Power BI |
+| M|Power Query |
+| Markdown|Git,Github ||
 
-* *Expertise* : Power BI, DAX, Power Query (ETL), SQL.
-* *Consultez mon dernier dashboard LinkedIn Analytics ici* : [Dashboard Analytics LinkedIn](https://github.com/DemgneA/Dashboard-Analytics-LinkedIn) - Suivi des performances d'une page LinkedIn
-### 📫 Me contacter : https://www.linkedin.com/in/audrey-pascale-demgne
+***
+## 🚀 Projets récents
+
+* *📊 LinkedIn Analytics Dashboard*
+  Analyse interactive des performances d'une page cabinet sur 24 mois. Automatisation de l'ETL et création de mesures DAX pour le suivi de l'engagement et de la conversion.
+  → [Voir sur GitHub](https://github.com/DemgneA/Dashboard-Analytics-LinkedIn)
+***
+### 📫 Me contacter 
+
+* *LinkedIn* :  [Pascale Fogaing](https://www.linkedin.com/in/audrey-pascale-demgne)
+* *Email* : pascalefogaing@gmail.com
+---
+⭐ N'hésitez pas à explorer mes projets et à me contacter pour échanger sur la Data Science et la BI !
