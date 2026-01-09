@@ -27,4 +27,4 @@ Analyse interactive des performances d'une page cabinet sur 24 mois. Automatisat
 * *LinkedIn* :  [Pascale Fogaing](https://www.linkedin.com/in/audrey-pascale-demgne)
 * *Email* : pascalefogaing@gmail.com
 ---
-⭐ N'hésitez pas à explorer mes projets et à me contacter pour échanger sur la Data Science et la BI !
+⭐ N'hésitez pas à explorer mes projets et à me contacter pour échanger sur la Data Analyse et la BI !
