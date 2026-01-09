@@ -17,8 +17,10 @@
 ## 🚀 Projets récents
 
 * *📊 LinkedIn Analytics Dashboard*
-  Analyse interactive des performances d'une page cabinet sur 24 mois. Automatisation de l'ETL et création de mesures DAX pour le suivi de l'engagement et de la conversion.
-  → [Voir sur GitHub](https://github.com/DemgneA/Dashboard-Analytics-LinkedIn)
+
+Analyse interactive des performances d'une page cabinet sur 24 mois. Automatisation de l'ETL et création de mesures DAX pour le suivi de l'engagement et de la conversion.
+
+→ [Voir sur GitHub](https://github.com/DemgneA/Dashboard-Analytics-LinkedIn)
 ***
 ### 📫 Me contacter 
 
